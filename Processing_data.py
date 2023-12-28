@@ -10,11 +10,14 @@ def runtxt(p):
 		sys.stdout.flush()
 		time.sleep(0.03)
 
+def clear():
+	os.system("cls")
+
 def processor():
 		for g in range (100):
 			g = g + 1
 			time.sleep(0.9)
-			o = os.system("clear")
+			clear()
 			b = ["Downloading data...","Processing data..","Analysing files..","Please wait.."]
 			f = random.choice(b)
 			print(f"{f}",g,"%")
