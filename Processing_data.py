@@ -11,7 +11,8 @@ def runtxt(p):
 		time.sleep(0.03)
 
 def clear():
-	os.system("cls")
+	#ForBOTHTermuxAndWindowsTerminals
+	os.system("cls\nclear")
 
 def processor():
 		for g in range (100):
