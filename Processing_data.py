@@ -20,7 +20,7 @@ def processor():
 			print(f"{f}",g,"%")
 
 processor()
-os.system("clear"),time.sleep(4.0)
+clear(),time.sleep(4.0)
 runtxt("FILES DOWNLOADED SUCCESSFULLY!")
 time.sleep(4.0)
 
