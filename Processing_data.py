@@ -28,8 +28,5 @@ clear(),time.sleep(4.0)
 runtxt("FILES DOWNLOADED SUCCESSFULLY!")
 time.sleep(4.0)
 
-#AccessForDuplicatingWellGranted by achieving the following criteria:
-	# - Give the programmer credit in the line the code will be use.
-	# - Make the programmer know -northhotoro@gmail.com
-	#             /           E   N  J  O  Y       //                
+#             /           E   N  J  O  Y       //                
 	                                                              #Surddheeq.                  
